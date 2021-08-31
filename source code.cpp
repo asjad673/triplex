@@ -8,7 +8,6 @@
 
 void PrintIntro(int Diffculty)
 {
-  //  std::cout << "\033[2J\033[1;1H";
     std::cout<<"you are a secret agent working to hack a highly protected facility!!"<<std::endl;
     std::cout << "Currently you are at level: "<< Diffculty << std::endl;
     std::cout<<std::endl;
