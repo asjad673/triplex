@@ -93,7 +93,7 @@ int main()
         
         break;
     case 2:
-        std::cout << "This game is base on mathematical exercise where you have to gusse three numbers that the sum of the three numbers";
+        std::cout << "This game is based on mathematical exercise where you have to guess three numbers that the sum of the three numbers";
         std::cout << "\nand their multiplication will be equal to the hint given to you.";
         getch();
         return 0;
